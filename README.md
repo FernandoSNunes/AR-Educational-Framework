@@ -1,3 +1,8 @@
 # AR-Educational-Framework
 
-Aqui tienes que poner la documentacion
+
+
+this is a framework for AR 
+
+# Installation
+ you must install this directory over assets package
