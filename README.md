@@ -27,7 +27,7 @@ https://www.dropbox.com/s/i7wcuhxq8l7jsoz/Organiza%C3%A7%C3%A3o%20De%20Pastas%20
 https://www.dropbox.com/sh/nvsqz7qra16wrbz/AACLYGGrPsTjswi8xaxS_sRha?dl=0
 
 - Documentation of class NewTrackableEventHandler (portugues version)
-https://www.dropbox.com/s/ev900yx27w7oavt/Classe%20NewTrackableEventHandler.docx?dl=0
+https://www.dropbox.com/s/7qmorpq58vp1pbd/Classe%20NewTrackableEventHandler.pdf?dl=0
 
 # Resources
 
