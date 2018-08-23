@@ -12,7 +12,7 @@ This Framework include the followings aspects:
 
 
 # Installation
-you need download the AR Educational Framework.unitypackage and
+You need download the AR Educational Framework.unitypackage and
 install it in you Unity project. 
 
 instalation link (portuguese version):
@@ -30,6 +30,9 @@ https://www.dropbox.com/sh/nvsqz7qra16wrbz/AACLYGGrPsTjswi8xaxS_sRha?dl=0
 https://www.dropbox.com/s/7qmorpq58vp1pbd/Classe%20NewTrackableEventHandler.pdf?dl=0
 
 # Resources
+
+- Markers
+https://www.dropbox.com/sh/s9rj97nkzq6nb0d/AAC4SAXsg1rZrfGLR7Y7VJc3a?dl=0
 
 - Heart
 https://www.dropbox.com/s/vhlqzz37bsz6q0t/Heart.rar?dl=0
