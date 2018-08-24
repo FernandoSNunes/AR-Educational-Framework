@@ -12,8 +12,7 @@ This Framework include the followings aspects:
 
 
 # Installation
-You need download the AR Educational Framework.unitypackage and
-install it in you Unity project. 
+You need download the AR Educational Framework.unitypackage and install it in you Unity project.
 
 instalation link (portuguese version):
 https://www.dropbox.com/s/r3r6v0ja4e2vnyi/Tutorial%20Configura%C3%A7%C3%A3o%20AR%20Educational%20Framework.pdf?dl=0
@@ -37,7 +36,7 @@ https://www.dropbox.com/sh/s9rj97nkzq6nb0d/AAC4SAXsg1rZrfGLR7Y7VJc3a?dl=0
 - Heart
 https://www.dropbox.com/s/vhlqzz37bsz6q0t/Heart.rar?dl=0
 
-THIS 3D MODELS HAS BEEN MADE BY: 
+THE 3D MODEL "Heart" HAS BEEN MADE BY: 
 elZancudo. 
 original download link:
 https://www.blendswap.com/blends/view/73924
