@@ -14,7 +14,7 @@ This Framework include the followings aspects:
 # Installation
 You need download the AR Educational Framework.unitypackage and install it in you Unity project.
 
-instalation link (portuguese version):
+installation link (portuguese version):
 https://www.dropbox.com/s/r3r6v0ja4e2vnyi/Tutorial%20Configura%C3%A7%C3%A3o%20AR%20Educational%20Framework.pdf?dl=0
 
 # Documentation
